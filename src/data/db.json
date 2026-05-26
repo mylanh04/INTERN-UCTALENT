@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rev-01",
+    "placeId": "mock-hilton-hanoi",
+    "author": "Nguyễn Văn Hùng",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "text": "Khách sạn tuyệt vời! Nhân viên cực kỳ thân thiện và chu đáo. Phòng ốc sạch sẽ, rộng rãi, view nhìn thẳng ra Hồ Tây rất đẹp. Bữa sáng buffet đa dạng món ăn từ Á sang Âu. Chắc chắn sẽ quay lại khi có dịp ra Hà Nội.",
+    "time": "2 giờ trước",
+    "status": "pending",
+    "createdAt": "2026-05-21T10:51:00.603Z"
+  },
+  {
+    "id": "rev-02",
+    "placeId": "mock-hilton-hanoi",
+    "author": "Sarah Jenkins",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&auto=format&fit=crop&q=80",
+    "rating": 3,
+    "text": "The location is perfect, and the room was very clean. However, the check-in process was extremely slow, we had to wait for almost 45 minutes in the lobby. Also, the Wi-Fi in our room on the 12th floor was weak and constantly disconnected.",
+    "time": "1 ngày trước",
+    "status": "pending",
+    "createdAt": "2026-05-20T12:51:00.603Z"
+  },
+  {
+    "id": "rev-03",
+    "placeId": "mock-hilton-hanoi",
+    "author": "Trần Thị Lan",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&auto=format&fit=crop&q=80",
+    "rating": 1,
+    "text": "Trải nghiệm rất tệ hại! Điều hòa trong phòng bị hỏng giữa đêm hè oi bức, tôi gọi lễ tân 3 lần nhưng không có ai lên hỗ trợ, bắt gia đình tôi phải chịu đựng đến sáng. Thái độ phục vụ của nhân viên ca đêm quá thiếu trách nhiệm và không chuyên nghiệp. Sẽ không bao giờ quay lại!",
+    "time": "3 ngày trước",
+    "status": "pending",
+    "createdAt": "2026-05-18T12:51:00.604Z"
+  },
+  {
+    "id": "rev-mock--0-1779368170967",
+    "placeId": "mock-hanoi-opera",
+    "author": "Lê Minh Tuấn",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "text": "Dịch vụ tại Hilton Hanoi Opera trên cả tuyệt vời! Mình đặt phòng Suite cho gia đình, view nhìn ra phố cực đẹp. Nhân viên phục vụ rất nhiệt tình, chu đáo hỗ trợ mang hành lý và tư vấn nhiệt tình. Khách sạn sạch sẽ và thơm tho. Chắc chắn sẽ quay lại!",
+    "time": "Vừa xong",
+    "status": "pending",
+    "createdAt": "2026-05-21T12:56:10.967Z"
+  },
+  {
+    "id": "rev-mock--1-1779368170967",
+    "placeId": "mock-hanoi-opera",
+    "author": "Emily Watson",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&auto=format&fit=crop&q=80",
+    "rating": 4,
+    "text": "We had a pleasant stay at Hilton Hanoi Opera. The staff was incredibly helpful, especially the concierge who recommended great local restaurants. The breakfast buffet had plenty of options. The only downside was that the swimming pool area was a bit crowded during the afternoon.",
+    "time": "10 phút trước",
+    "status": "pending",
+    "createdAt": "2026-05-21T12:26:10.967Z"
+  },
+  {
+    "id": "rev-mock--2-1779368170967",
+    "placeId": "mock-hanoi-opera",
+    "author": "Phạm Minh Hoàng",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+    "rating": 2,
+    "text": "Phòng ốc của Hilton Hanoi Opera khá cũ kỹ so với tầm giá. Hệ thống nước nóng lạnh trong phòng tắm hoạt động không ổn định, lúc quá nóng lúc lại lạnh ngắt. Đã báo kỹ thuật sửa nhưng vẫn không cải thiện được nhiều. Mong ban quản lý nâng cấp cơ sở vật chất.",
+    "time": "1 giờ trước",
+    "status": "pending",
+    "createdAt": "2026-05-21T11:56:10.967Z"
+  },
+  {
+    "id": "rev-mock--3-1779368170967",
+    "placeId": "mock-hanoi-opera",
+    "author": "Nguyễn Thảo Chi",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "text": "Highly recommend Hilton Hanoi Opera! Excellent location, very clean rooms, and outstanding service. The roof bar offers a stunning panoramic view of the city. Special thanks to the front desk team for making our anniversary trip so memorable with a surprise cake!",
+    "time": "3 giờ trước",
+    "status": "pending",
+    "createdAt": "2026-05-21T11:26:10.967Z"
+  },
+  {
+    "id": "rev-mock--4-1779368170967",
+    "placeId": "mock-hanoi-opera",
+    "author": "Kenji Sato",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&auto=format&fit=crop&q=80",
+    "rating": 3,
+    "text": "Mức giá ở Hilton Hanoi Opera hơi cao so với chất lượng dịch vụ nhận được. Thủ tục check-out mất quá nhiều thời gian do hệ thống xuất hóa đơn gặp sự cố, làm tôi suýt nữa thì trễ chuyến bay. Phòng đẹp nhưng cách âm chưa tốt lắm, vẫn nghe tiếng ồn từ hành lang.",
+    "time": "5 giờ trước",
+    "status": "pending",
+    "createdAt": "2026-05-21T10:56:10.967Z"
+  }
+]
